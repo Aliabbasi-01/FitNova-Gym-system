@@ -20,6 +20,7 @@ import {
   Loader2,
   Award,
   Images,
+  MessageSquare,
 } from "lucide-react";
 
 const ACCESS_KEY = "fitnova_admin_access";
@@ -31,6 +32,7 @@ const navigation = [
   { name: "Attendance", href: "/admin/attendance", icon: CalendarCheck },
   { name: "Trainers", href: "/admin/trainers", icon: Award },
   { name: "Gallery", href: "/admin/gallery", icon: Images },
+  { name: "Reviews", href: "/admin/reviews", icon: MessageSquare },
   { name: "Staff", href: "/admin/staff", icon: UserCog },
   { name: "Reports", href: "/admin/reports", icon: BarChart3 },
   { name: "Settings", href: "/admin/settings", icon: Settings },

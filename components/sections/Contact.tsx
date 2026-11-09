@@ -129,15 +129,7 @@ export default function Contact() {
                   TRAIN DIFFERENT.
                 </span>
 
-                <a
-                  href="https://instagram.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Instagram"
-                  className="flex h-9 w-9 items-center justify-center rounded-full border border-white/15 text-xs font-black text-gray-400 transition hover:border-[#FF7438] hover:bg-[#FF7438] hover:text-white"
-                >
-                  IG
-                </a>
+              
               </div>
             </div>
           </div>
